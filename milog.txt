@@ -1,0 +1,152 @@
+commit 8092e9a84827f94b65db416b91e878567d3f6ecb
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Nov 7 11:30:47 2018 -0600
+
+    RESOLVI CONFLICTO
+
+commit 061c042bcdb0a07d38e3f7ea06c74c56d631629c
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Nov 7 11:27:37 2018 -0600
+
+    fail
+
+commit d0b8a9a0bcb0d45a24b6a7818a29382626a2a53d
+Merge: d2118f9 31c4828
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Nov 7 11:13:47 2018 -0600
+
+    Merge branch 'master' of https://github.com/EstebanManrique/practicasitcc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota.
+
+commit 31c4828decee503b2d3ffd4f078138441d4f59b7
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Nov 7 11:12:51 2018 -0600
+
+    Create tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit d2118f97576a7322cd4f8bfbda2c8623ff1306b8
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Nov 7 11:11:30 2018 -0600
+
+    tarea local
+
+commit 0c7cdecceafefd0cddde5f8128f80e08b65cd19a
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Fri Oct 26 09:39:51 2018 -0500
+
+    Add files via upload
+    
+    Código de Número Perfecto
+
+commit 2988d6614480831b6a385da1e78cc67a4566c070
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 12:54:42 2018 -0500
+
+    Add files via upload
+    
+    Año Bisiesto
+
+commit 6576d8cfd0e5168d64127a2f52337afbf01e043a
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:58:00 2018 -0500
+
+    Add files via upload
+
+commit 4ad887d09e8960837c78a2e84ed58090c0b6903c
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 11:41:16 2018 -0500
+
+    Tarea 5 Microsoft
+
+commit d8f3e566d24c297dd949acceee02c235d9283bce
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 11:38:38 2018 -0500
+
+    Tarea 4 ATT
+
+commit 4769c0e733d7c3639415b6d895f3d17a821fdf0d
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:36:59 2018 -0500
+
+    Add files via upload
+
+commit 704940f1398683af90d10669e1e0ee23edfbdf9e
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:35:28 2018 -0500
+
+    Delete A01027077_T02_01_ReporteDomoAT&T.docx
+
+commit 2233c57b167f9cfad5c38aa5537e0e34ffe379a4
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:35:09 2018 -0500
+
+    Delete A01027077_T06_01_PláticaMicrosoft.docx
+
+commit b6ec5141dd3bf846ed4bc84ae7ea43cd0828058e
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 11:33:53 2018 -0500
+
+    Tarea 3 CiscoDay
+
+commit b82b3a301c2a16dafae6cf60f9214e8bffff0787
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 11:24:26 2018 -0500
+
+    Tarea 2 Facebook
+
+commit 072556316f0fb6fd84f0916d1e2ff93f405be224
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:20:03 2018 -0500
+
+    Add files via upload
+    
+    Las demás tareas
+
+commit 088df0285095bf841ec6814825abf4fc13882dd4
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 11:14:59 2018 -0500
+
+    Tarea 1 Drink IQ
+
+commit 79b0ef5f3cb491fcb6fc4a7acbc851ec539f7d01
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 11:01:23 2018 -0500
+
+    Add files via upload
+    
+    Esta es la llave del profesor
+
+commit 18074e42be3054d2e1a978e6a5ca1a3bbc110fde
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 10:56:05 2018 -0500
+
+    Add files via upload
+    
+    Esta tarea es la de DrinkIQ
+
+commit e4d059b144a2a400f023824c742562d1b44050af
+Author: EstebanManrique <42215173+EstebanManrique@users.noreply.github.com>
+Date:   Wed Oct 24 10:42:27 2018 -0500
+
+    Delete a01027077MyPrivateKey.gpg
+
+commit 9a8b915032d98b66cea3da8710040721669415d2
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 24 10:34:59 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit cecf789a598738305dd1efe22350b5acaeca3dac
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 17 14:11:54 2018 -0500
+
+    primer commit
+
+commit b8326c976648cb3ea76dba63a5ab77dd1e9cc32b
+Author: EstebanManrique <a01027077@itesm.mx>
+Date:   Wed Oct 17 12:39:11 2018 -0500
+
+    segundo commit
